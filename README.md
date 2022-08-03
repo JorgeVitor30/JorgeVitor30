@@ -12,10 +12,6 @@
 
 [![Tecnologias](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]()
 
-[![Tecnologias](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)]()
-
-[![Tecnologias](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
-
 [![Tecnologias](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)]()
 
 [![Tecnologias](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)]()
