@@ -1,5 +1,5 @@
 
-### Olá eu sou o Jorge Vitor e curso Ciência da Computação ✋✌️
+### Olá eu sou Jorge Vitor, tenho 18 anos e curso Ciência da Computação ✋✌️
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-vitor-679a31223/)
 
