@@ -5,7 +5,7 @@
 
 [![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jorgevitorlima8@gmail.com)
 
-![Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=JorgeVitor30&show_icons=true&theme=dracula)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JorgeVitor30&show_icons=true&theme=radical)
 
 
 ### Tecnologias que eu uso no meu dia
