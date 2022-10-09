@@ -21,5 +21,5 @@ Apaixonado pela matemática e consequentemente pelo mundo da programação. Curi
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeVitor30&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeVitor30&layout=compact)](https://github.com/JorgeVitor30/github-readme-stats)
 
