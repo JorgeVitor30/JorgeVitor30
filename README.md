@@ -18,6 +18,8 @@
 
 [![Tecnologias](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)]()
 
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
+
 Apaixonado pela matemática e consequentemente pelo mundo da programação. Curioso pelo novo e por novas experiências.
 
 
