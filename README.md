@@ -8,16 +8,11 @@
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JorgeVitor30&show_icons=true&theme=radical)
 
 
-### Tecnologias que eu uso no meu dia
-
-[![Tecnologias](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]()
-
-[![Tecnologias](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]()
-
-[![Tecnologias](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)]()
+## Skills:
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /> <img src="[https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)" /> <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> 
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 
 
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
 
 Apaixonado pela matemática e consequentemente pelo mundo da programação. Curioso pelo novo e por novas experiências.
 
